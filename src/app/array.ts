@@ -1,0 +1,4 @@
+export class Array {
+    prod:[]
+}
+
